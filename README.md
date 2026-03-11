@@ -1,8 +1,17 @@
 <div align="center">
 
-| [RoscomVPN GeoIP](https://github.com/hydraponique/roscomvpn-geoip) | [RoscomVPN GeoSite](https://github.com/hydraponique/roscomvpn-geosite) | [**🚀 RoscomVPN Routing**](https://github.com/hydraponique/roscomvpn-routing) |
-|:---:|:---:|:---:|
-| ![Downloads](https://img.shields.io/github/downloads/hydraponique/roscomvpn-geoip/total.svg) ![jsDelivr](https://data.jsdelivr.com/v1/package/gh/hydraponique/roscomvpn-geoip/badge) | ![Downloads](https://img.shields.io/github/downloads/hydraponique/roscomvpn-geosite/total.svg) ![jsDelivr](https://data.jsdelivr.com/v1/package/gh/hydraponique/roscomvpn-geosite/badge) | ![Stars](https://img.shields.io/github/stars/hydraponique/roscomvpn-routing.svg) ![Happ](https://img.shields.io/badge/Happ-blue.svg) ![Mihomo](https://img.shields.io/badge/Mihomo-grey.svg) ![Incy](https://img.shields.io/badge/Incy-darkgreen.svg) |
+<table width="100%">
+<tr>
+<td align="center"><a href="https://github.com/hydraponique/roscomvpn-geoip">RoscomVPN GeoIP</a></td>
+<td align="center"><a href="https://github.com/hydraponique/roscomvpn-geosite">RoscomVPN GeoSite</a></td>
+<td align="center"><a href="https://github.com/hydraponique/roscomvpn-routing"><b>🚀 RoscomVPN Routing</b></a></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/github/downloads/hydraponique/roscomvpn-geoip/total.svg" alt="Downloads"> <img src="https://data.jsdelivr.com/v1/package/gh/hydraponique/roscomvpn-geoip/badge" alt="jsDelivr"></td>
+<td align="center"><img src="https://img.shields.io/github/downloads/hydraponique/roscomvpn-geosite/total.svg" alt="Downloads"> <img src="https://data.jsdelivr.com/v1/package/gh/hydraponique/roscomvpn-geosite/badge" alt="jsDelivr"></td>
+<td align="center"><img src="https://img.shields.io/github/stars/hydraponique/roscomvpn-routing.svg" alt="Stars"> <img src="https://img.shields.io/badge/Happ-blue.svg" alt="Happ"> <img src="https://img.shields.io/badge/Mihomo-grey.svg" alt="Mihomo"> <img src="https://img.shields.io/badge/Incy-darkgreen.svg" alt="Incy"></td>
+</tr>
+</table>
 
 # 🚀 RoscomVPN Routing
 
@@ -18,28 +27,37 @@
 
 ## 📱 Установка для Happ
 
-| Способ | Ссылка | Описание |
-|--------|--------|----------|
-| ⚡ Быстрая установка | [routing.help](https://routing.help) | Редирект на диплинк, открыть на устройстве |
-| 🔗 DEFAULT.DEEPLINK | [Просмотр](https://raw.githubusercontent.com/hydraponique/roscomvpn-routing/refs/heads/main/HAPP/DEFAULT.DEEPLINK) | Диплинк-ссылка в текстовом формате |
-| 📊 DEFAULT.JSON | [Просмотр](https://raw.githubusercontent.com/hydraponique/roscomvpn-routing/refs/heads/main/HAPP/DEFAULT.JSON) | JSON-конфиг роутинга |
+<table width="100%">
+<thead><tr><th align="left">Способ</th><th align="left">Ссылка</th><th align="left">Описание</th></tr></thead>
+<tbody>
+<tr><td>⚡ Быстрая установка</td><td><a href="https://routing.help">routing.help</a></td><td>Редирект на диплинк, открыть на устройстве</td></tr>
+<tr><td>🔗 DEFAULT.DEEPLINK</td><td><a href="https://raw.githubusercontent.com/hydraponique/roscomvpn-routing/refs/heads/main/HAPP/DEFAULT.DEEPLINK">Просмотр</a></td><td>Диплинк-ссылка в текстовом формате</td></tr>
+<tr><td>📊 DEFAULT.JSON</td><td><a href="https://raw.githubusercontent.com/hydraponique/roscomvpn-routing/refs/heads/main/HAPP/DEFAULT.JSON">Просмотр</a></td><td>JSON-конфиг роутинга</td></tr>
+</tbody>
+</table>
 
 ## 📱 Установка для INCY
 
-| Способ | Ссылка | Описание |
-|--------|--------|----------|
-| ⚡ Быстрая установка | [incy.routing.help](https://incy.routing.help) | Редирект на диплинк, открыть на устройстве |
-| 🔗 DEFAULT.DEEPLINK | [Просмотр](https://raw.githubusercontent.com/hydraponique/roscomvpn-routing/refs/heads/main/INCY/DEFAULT.DEEPLINK) | Диплинк-ссылка в текстовом формате |
-| 📊 DEFAULT.JSON | [Просмотр](https://raw.githubusercontent.com/hydraponique/roscomvpn-routing/refs/heads/main/INCY/DEFAULT.JSON) | JSON-конфиг роутинга |
+<table width="100%">
+<thead><tr><th align="left">Способ</th><th align="left">Ссылка</th><th align="left">Описание</th></tr></thead>
+<tbody>
+<tr><td>⚡ Быстрая установка</td><td><a href="https://incy.routing.help">incy.routing.help</a></td><td>Редирект на диплинк, открыть на устройстве</td></tr>
+<tr><td>🔗 DEFAULT.DEEPLINK</td><td><a href="https://raw.githubusercontent.com/hydraponique/roscomvpn-routing/refs/heads/main/INCY/DEFAULT.DEEPLINK">Просмотр</a></td><td>Диплинк-ссылка в текстовом формате</td></tr>
+<tr><td>📊 DEFAULT.JSON</td><td><a href="https://raw.githubusercontent.com/hydraponique/roscomvpn-routing/refs/heads/main/INCY/DEFAULT.JSON">Просмотр</a></td><td>JSON-конфиг роутинга</td></tr>
+</tbody>
+</table>
 
 ## 💻 Установка для Mihomo (Clash Meta)
 
 Готовые YAML-шаблоны в папке `MIHOMO/`:
 
-| Файл | Описание |
-|------|----------|
-| `default.yaml` | DEFAULT конфиг для добавления в приложение вручную и 40+ rule-провайдерами |
-| `template_remnawave.yaml` | DEFAULT конфиг для интеграции с панелью Remnawave |
+<table width="100%">
+<thead><tr><th align="left">Файл</th><th align="left">Описание</th></tr></thead>
+<tbody>
+<tr><td><code>default.yaml</code></td><td>DEFAULT конфиг для добавления в приложение вручную и 40+ rule-провайдерами</td></tr>
+<tr><td><code>template_remnawave.yaml</code></td><td>DEFAULT конфиг для интеграции с панелью Remnawave</td></tr>
+</tbody>
+</table>
 
 Подставьте URL вашей подписки и используйте с любым Mihomo-совместимым клиентом (Clash Mi, Clash Verge и др.).
 
@@ -75,41 +93,56 @@
 ## 🗺 Что роутится в DEFAULT-версии
 
 ### 🔴 BLOCK (блокировка)
-| Что | Зачем |
-|-----|-------|
-| 🚫 **Домены слежки Windows** | Отключаем телеметрию и слежку за пользователями |
-| 🚫 **BitTorrent DHT** | Известные публичные DHT-серверы, для экономии трафика вашего сервера и успокоения хостера |
-| 🚫 **Реклама VK Company** | Отключаем рекламу в ВК Видео и ВК Музыке |
+
+<table width="100%">
+<thead><tr><th align="left">Что</th><th align="left">Зачем</th></tr></thead>
+<tbody>
+<tr><td>🚫 <b>Домены слежки Windows</b></td><td>Отключаем телеметрию и слежку за пользователями</td></tr>
+<tr><td>🚫 <b>BitTorrent DHT</b></td><td>Известные публичные DHT-серверы, для экономии трафика вашего сервера и успокоения хостера</td></tr>
+<tr><td>🚫 <b>Реклама VK Company</b></td><td>Отключаем рекламу в ВК Видео и ВК Музыке</td></tr>
+</tbody>
+</table>
 
 ### 🟢 DIRECT (напрямую)
-| Что | Зачем |
-|-----|-------|
-| ✅ **Русские/белорусские** домены и CIDR | За исключением РКН-списков + РФ активов зарубежных CDN-сервисов |
-| ✅ **"Казенные" сервисы РФ и CDN** | VK, OK, Mail.Ru, Яндекс, CDNVideo (включая зарубежные активы) |
-| ✅ **Обновления и пуши** | Apple, Microsoft, Android/Google Play — корректная работа устройства + экономия трафика |
-| ✅ **Все банки РФ** | Вытащены с сайта ЦБ РФ + собрано саморезолвингом, включая зарубежные домены |
-| ✅ **Игровые платформы** | Steam, Epic Games, Riot Games, Escape from Tarkov — экономия трафика + проблемы через прокси |
-| ✅ **Faceit** | Фикс для РФ игроков, увеличиваем количество доступных локаций серверов |
-| ✅ **Twitch** | Экономия трафика сервера |
-| ✅ **Pinterest** | Блокировка рекламы на сервисе |
+
+<table width="100%">
+<thead><tr><th align="left">Что</th><th align="left">Зачем</th></tr></thead>
+<tbody>
+<tr><td>✅ <b>Русские/белорусские</b> домены и CIDR</td><td>За исключением РКН-списков + РФ активов зарубежных CDN-сервисов</td></tr>
+<tr><td>✅ <b>"Казенные" сервисы РФ и CDN</b></td><td>VK, OK, Mail.Ru, Яндекс, CDNVideo (включая зарубежные активы)</td></tr>
+<tr><td>✅ <b>Обновления и пуши</b></td><td>Apple, Microsoft, Android/Google Play — корректная работа устройства + экономия трафика</td></tr>
+<tr><td>✅ <b>Все банки РФ</b></td><td>Вытащены с сайта ЦБ РФ + собрано саморезолвингом, включая зарубежные домены</td></tr>
+<tr><td>✅ <b>Игровые платформы</b></td><td>Steam, Epic Games, Riot Games, Escape from Tarkov — экономия трафика + проблемы через прокси</td></tr>
+<tr><td>✅ <b>Faceit</b></td><td>Фикс для РФ игроков, увеличиваем количество доступных локаций серверов</td></tr>
+<tr><td>✅ <b>Twitch</b></td><td>Экономия трафика сервера</td></tr>
+<tr><td>✅ <b>Pinterest</b></td><td>Блокировка рекламы на сервисе</td></tr>
+</tbody>
+</table>
 
 ### 🔵 PROXY (через VPN)
-| Что | Зачем |
-|-----|-------|
-| 🌐 **YouTube** | Борьба с ТСПУ и банами РКН |
-| 🌐 **Telegram** | Борьба с ТСПУ и банами РКН |
-| 🌐 **GitHub** | Борьба с ТСПУ и банами РКН |
-| 🌐 **Twitch-ads** | Возвращаем полное качество (Source) стримов с блокировкой рекламы |
-| 🌐 **Весь остальной интернет** | Все, чего нет в других списках, включая все зарубежные CDN |
+
+<table width="100%">
+<thead><tr><th align="left">Что</th><th align="left">Зачем</th></tr></thead>
+<tbody>
+<tr><td>🌐 <b>YouTube</b></td><td>Борьба с ТСПУ и банами РКН</td></tr>
+<tr><td>🌐 <b>Telegram</b></td><td>Борьба с ТСПУ и банами РКН</td></tr>
+<tr><td>🌐 <b>GitHub</b></td><td>Борьба с ТСПУ и банами РКН</td></tr>
+<tr><td>🌐 <b>Twitch-ads</b></td><td>Возвращаем полное качество (Source) стримов с блокировкой рекламы</td></tr>
+<tr><td>🌐 <b>Весь остальной интернет</b></td><td>Все, чего нет в других списках, включая все зарубежные CDN</td></tr>
+</tbody>
+</table>
 
 ---
 
 ## 🇷🇺 DNS
 
-| Назначение | Сервер | Зачем |
-|:----------:|--------|-------|
-| 🏠 Domestic (direct) | [Яндекс DNS](https://dns.yandex.ru/) `77.88.8.8` | Для работы ВЕЗДЕ в РФ — без вариантов в реалиях БС, шатдаунов и ТСПУ. Низкий пинг в РФ |
-| 🌍 Remote (proxy) | [Google Public DNS](https://developers.google.com/speed/public-dns/) `8.8.8.8` | Резолвинг-DNS для проксируемого трафика |
+<table width="100%">
+<thead><tr><th align="center">Назначение</th><th align="left">Сервер</th><th align="left">Зачем</th></tr></thead>
+<tbody>
+<tr><td align="center">🏠 Domestic (direct)</td><td><a href="https://dns.yandex.ru/">Яндекс DNS</a> <code>77.88.8.8</code></td><td>Для работы ВЕЗДЕ в РФ — без вариантов в реалиях БС, шатдаунов и ТСПУ. Низкий пинг в РФ</td></tr>
+<tr><td align="center">🌍 Remote (proxy)</td><td><a href="https://developers.google.com/speed/public-dns/">Google Public DNS</a> <code>8.8.8.8</code></td><td>Резолвинг-DNS для проксируемого трафика</td></tr>
+</tbody>
+</table>
 
 ---
 
@@ -119,14 +152,17 @@
 > Готовые модули для автоматической инъекции роутинга в пользовательские подписки.
 > Модули `subscription.py` монтируются в контейнер панели и автоматически подставляют актуальные geoip.dat/geosite.dat в подписки пользователей.
 
-| Панель | Формат | Описание |
-|--------|--------|----------|
-| [3x-ui](ADDON_AUTOROUTING/3x-ui/) | Non-JSON | Кастомный форк с поддержкой роутинга |
-| [Marzban](ADDON_AUTOROUTING/Marzban%20JSON/) | JSON | `subscription.py` для JSON-подписок |
-| [Marzban](ADDON_AUTOROUTING/Marzban%20NON-JSON/) | Non-JSON | `subscription.py` для стандартных подписок |
-| [Marzneshin](ADDON_AUTOROUTING/Marzneshin%20JSON/) | JSON | `subscription.py` для JSON-подписок |
-| [Marzneshin](ADDON_AUTOROUTING/Marzneshin%20NON-JSON/) | Non-JSON | `subscription.py` для стандартных подписок |
-| [Remnawave](ADDON_AUTOROUTING/Remnawave/) | API | Контейнер для автообновления роутинга через API |
+<table width="100%">
+<thead><tr><th align="left">Панель</th><th align="left">Формат</th><th align="left">Описание</th></tr></thead>
+<tbody>
+<tr><td><a href="ADDON_AUTOROUTING/3x-ui/">3x-ui</a></td><td>Non-JSON</td><td>Кастомный форк с поддержкой роутинга</td></tr>
+<tr><td><a href="ADDON_AUTOROUTING/Marzban%20JSON/">Marzban</a></td><td>JSON</td><td><code>subscription.py</code> для JSON-подписок</td></tr>
+<tr><td><a href="ADDON_AUTOROUTING/Marzban%20NON-JSON/">Marzban</a></td><td>Non-JSON</td><td><code>subscription.py</code> для стандартных подписок</td></tr>
+<tr><td><a href="ADDON_AUTOROUTING/Marzneshin%20JSON/">Marzneshin</a></td><td>JSON</td><td><code>subscription.py</code> для JSON-подписок</td></tr>
+<tr><td><a href="ADDON_AUTOROUTING/Marzneshin%20NON-JSON/">Marzneshin</a></td><td>Non-JSON</td><td><code>subscription.py</code> для стандартных подписок</td></tr>
+<tr><td><a href="ADDON_AUTOROUTING/Remnawave/">Remnawave</a></td><td>API</td><td>Контейнер для автообновления роутинга через API</td></tr>
+</tbody>
+</table>
 
 ---
 
